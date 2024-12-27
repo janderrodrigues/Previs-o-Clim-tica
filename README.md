@@ -1,0 +1,1 @@
+Esse programa extrai informações da API OPENWEATHER processa quais as principais que vamos trabalhar, depois envia elas pelo Twilio no meu whatsapp, deixando em loop infinito e executando no pythonanywhere, as  informações do código estão no script.
